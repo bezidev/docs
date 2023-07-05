@@ -4,11 +4,11 @@ BežiApp od 6. 7. 2023 dalje podpira OAUTH2 z uporabo BežiApp računa. Aplikaci
 
 ## Ustvarjanje nove aplikacije v BežiApp sistemu
 
-![image](https://github.com/bezidev/docs/assets/52399966/54728a8e-5c07-441a-8b22-6e22337af482)
+![Screenshot from 2023-07-06 01-16-01](https://github.com/bezidev/docs/assets/52399966/6198f3d4-e7c6-48b3-830c-b9b67e8e9300)
 
 Aplikacije lahko ustvarite v BežiApp-u pod zavihkom `BežiApp za razvijalce`. Kasneje lahko vse te podatke tudi spreminjate. Ko ste vse izpolnili, kliknete `Dodaj aplikacijo`, nakar bi se vam morala v spodnjem spisku vaših aplikacij pojaviti tudi ta. Za nadaljnje korake boste potrebovali enolični identifikator aplikacije (v spodnjem primeru `a106e326-eac5-4cc4-8ebf-24840bf3b85f`).
 
-![image](https://github.com/bezidev/docs/assets/52399966/e9fb30b0-ce9d-4d25-98d5-395b023f98bf)
+![Screenshot from 2023-07-06 01-18-20](https://github.com/bezidev/docs/assets/52399966/c0aabe53-bb45-4132-8da6-a461ba39ea24)
 
 ## Klic na avtorizacijski URL
 
@@ -25,7 +25,7 @@ https://beziapp.si/oauth2/a106e326-eac5-4cc4-8ebf-24840bf3b85f?scope=gimsis.time
 
 Ob takem naslovu bi vaša aplikacija morala izgledati nekako tako:
 
-![image](https://github.com/bezidev/docs/assets/52399966/df603709-8bcd-4b8c-8178-3b277e9a1e9b)
+![Screenshot from 2023-07-06 01-23-55](https://github.com/bezidev/docs/assets/52399966/2e7b021c-2fcf-40e7-90fa-c00760f66908)
 
 ### Seznam dovoljenj
 Aplikacija lahko z dovoljenjem `x` dela y stvari (`x` - y):
