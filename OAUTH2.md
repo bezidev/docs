@@ -34,6 +34,7 @@ Aplikacija lahko z dovoljenjem `x` dela y stvari (`x` - y):
 - `gimsis.absences` - preveri vaše odsotnosti
 - `gimsis.gradings` - preveri vaša ocenjevanja
 - `gimsis.grades` - preveri vaše ocene
+- `gimsis.teachers` - preveri vaše učitelje
 - `gimsis.user.read.usernameemail` - bere vaš elektronski naslov in uporabniško ime za GimSIS/BežiApp račun
 - `gimsis.user.read.namesurname` - bere vaše ime in priimek
 - `gimsis.user.read.sex` - bere vaš spol
