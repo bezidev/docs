@@ -57,6 +57,8 @@ Aplikacija lahko z dovoljenjem `x` dela y stvari (`x` - y):
 - `tarot.game.delete` - briše igre v tarok sistemu
 - `tarot.contests.write` - ustvarja nova tekmovanja in spreminja obstoječa v tarok sistemu
 - `tarot.contests.delete` - briše tekmovanja v tarok sistemu
+- `notifications.write` - ustvarja nova obvestila razvijalcev (na voljo samo administratorjem sistema)
+- `notifications.delete` - briše obvestila razvijalcev (na voljo samo administratorjem sistema)
 
 ## Uporabnik potrdi vašo zahtevo
 
